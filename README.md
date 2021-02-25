@@ -22,15 +22,14 @@ Using Python, Pandas functions and methods, and SQLAlchemy, I refactored the `fo
 <img src="images/Delv 2_sum stats.PNG">
 
 ### Three Major Points from the Analysis Deliverables
-- The average June temperature is 74.94 degrees, whereas the average December temperature is 71.04 degrees. Therefore, the difference between June and December average temperatures is less than 4 degrees.
-- The minimum June temperature is 64 degrees, whereas the minimum December temperature is 56 degrees. Therefore, the difference between June and December minimum temperatures is 8 degrees.
-- The maximum June temperature is 85 degrees, whereas the maximum December temperature is 83 degrees. Therefore, the difference between June and December maximum temperatures is 2 degrees.
+- The average temperature in June is 74.94 degrees, whereas the average temperature in December is 71.04 degrees. Therefore, the difference between June and December average temperatures is less than 4 degrees.
+- The minimum temperature in June is 64 degrees, whereas the minimum temperature in December is 56 degrees. Therefore, the difference between June and December minimum temperatures is 8 degrees.
+- The maximum temperature in June is 85 degrees, whereas the maximum temperature in December is 83 degrees. Therefore, the difference between June and December maximum temperatures is 2 degrees.
 
 ## Challenge Summary
-High-level summary of the results
 Based on the summary statistics for June and December temperatures, there is very little difference between average, minimum and maximum temperatures throughout the year. So, based on this analysis, the beautiful island of Oahu seems like a very good place for a surf and ice cream shop.
 
-Two additional queries to perform to gather more weather data for June and December.
-1. We should perform other queries to find out the average precipitation amounts for the month of June and December, or other months, to see if there are big differences throughout the year.
+Sustainable temperatures throughout the year is a great start, but we need to do some additional analysis to find out if the weather is ideal for a surf and ice cream shop. Two additional queries we can perform to gather more weather data:
+1. We can perform other queries to find out the average precipitation amounts for the month of June and December, or other months, to see if there are big differences throughout the year.
 2. Since finding out the average precipitation amounts won't tell us the whole rainfall story, we should perform other queries to find out how frequently it rains in Oahu, such as how many days per month. 
 
