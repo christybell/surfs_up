@@ -31,8 +31,8 @@ Using Python, Pandas functions and methods, and SQLAlchemy, I refactored the `fo
 Based on the summary statistics for June and December temperatures, there is very little difference between the average, minimum and maximum temperatures throughout the year. So, based on this analysis, the beautiful island of Oahu seems like a very good place for a surf and ice cream shop.
 
 Sustainable temperatures throughout the year is a great start, but we need to do some additional analysis to find out if the weather is ideal for a surf and ice cream shop. Two additional queries we can perform to gather more weather data are:
-1. We can perform other queries to find out the average precipitation amounts for the month of June and December, or other months, to see if there are big differences throughout the year.
-2. Since finding out the average precipitation amounts won't tell us the whole rainfall story, we should perform other queries to find out how frequently it rains in Oahu, such as how many days per month. 
+1. We can perform queries to find out the average precipitation amounts for the month of June and December, or other months, to see if there are big differences throughout the year.
+2. Since finding out the average precipitation amounts won't tell us the whole rainfall story, we should perform queries to find out how frequently it rains in Oahu, such as how many days per month. 
 
 These additional queries and analysis will reveal whether our dream to move to Hawaii and open a Surf n' Shake shop in Oahu will be a worthwhile endeavor!
 
