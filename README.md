@@ -1,4 +1,5 @@
 # Surf's Up with Advanced Data Storage and Retrieval
+<img src="images/Surfing.jpg" width="1000" height="300">
 
 ## Project Overview
 While I was on vacation in Hawaii last year, I discovered a new-found passion for surfing. I've been trying to come up with a plan so that I can live in Hawaii forever. I have an idea that I think is fool-proof: a Surf n' Shake shop, serving surf boards and ice cream to locals and tourists alike. I have some savings that I plan to invest but need some real investor backing to get the venture off the ground. So, after putting together a strong business plan, I've reached out to an investor, W. Avy, who is famous for his love of surfing. Our first meeting went very well but he has some major concerns about the weather. Apparently he invested in a similar venture earlier in his career, however he didn't ask for any weather analysis and the shop was quickly rained out of business. So, W. Avy has asked that I run some analytics on a weather dataset he has from the beautiful island of Oahu.
