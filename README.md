@@ -9,7 +9,7 @@ While I was on vacation in Hawaii last year, I discovered a new-found passion fo
 - **Software and Tools**: Python, Pandas, SQLAlchemy, Jupyter Notebook & Git Bash 
 
 ## Challenge Overview
-W. Avy likes my analysis but wants more information about temperature trends before opening the surf shop. Specifically, he wants temperature data for the months of June and December in Oahu, in order to determine if the surf and ice cream shop business is sustainable year-round.
+W. Avy likes my initial analysis but wants more information about temperature trends before opening the surf shop. Specifically, he wants temperature data for the months of June and December in Oahu, in order to determine if the surf and ice cream shop business is sustainable year-round.
 
 ## Challenge Results
 ### Deliverable 1: Determine the Summary Statistics for June
