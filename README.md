@@ -6,7 +6,7 @@ While I was on vacation in Hawaii last year, I discovered a new-found passion fo
 
 ## Resources
 - **Data Sources**: SQLite Database `hawaii.sqlite`
-- **Software and Tools**: Python, Pandas, SQLAlchemy, Jupyter Notebook & Git Bash 
+- **Software and Tools**: Python, Pandas, SQLite, SQLAlchemy, Flask, Jupyter Notebook & Git Bash 
 
 ## Challenge Overview
 W. Avy likes my initial analysis but wants more information about temperature trends before opening the surf shop. Specifically, he wants temperature data for the months of June and December in Oahu, in order to determine if the surf and ice cream shop business is sustainable year-round.
